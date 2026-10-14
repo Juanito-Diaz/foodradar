@@ -1,11 +1,3 @@
-Listed directory foodradar
-Viewed login.php:1-60
-Viewed procesar_registro.php:1-45
-Viewed procesar_login.php:1-45
-
-Aquí tienes la documentación completa en formato Markdown lista para copiar o reemplazar en tu archivo `README.md`:
-
-```markdown
 # 🍽️ FoodRadar
 
 **FoodRadar** es una plataforma web desarrollada en PHP para la gestión de usuarios, registro, inicio de sesión y exploración gastronómica. Cuenta con integración a bases de datos relacionales (SQL Server mediante extensiones PDO) y diseño de interfaz adaptable.
@@ -110,16 +102,3 @@ $password   = "tu_contraseña";
 ## 👨‍💻 Autor
 
 - **Juanito Díaz** - [GitHub](https://github.com/Juanito-Diaz)
-```
-
----
-
-### Pasos para guardarlo y subirlo a Git:
-
-1. Pega este contenido en tu archivo `README.md` (o pídeme que lo guarde por ti).
-2. Luego ejecuta en tu terminal:
-```bash
-git add README.md
-git commit -m "docs: actualizar README con la documentación completa del proyecto"
-git push origin main
-```
